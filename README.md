@@ -1,2 +1,2 @@
 # Reinforcement-Learning-Codes
-Providing implemented codes for Reinforcement Learning algorithms.
+Providing codes for Reinforcement Learning algorithms.
